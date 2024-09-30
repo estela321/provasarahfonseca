@@ -1,4 +1,19 @@
- body {
-    background-color: rose
-  
- } 
+
+body {
+ background-color: rgb(181,120,212);
+ text-aling:center
+}
+
+p {
+  color:rgb(98,149,162)
+}
+
+h1 {
+   font-style: italic;
+}
+
+  .melancia { 
+    font-size: 30%;
+  }
+
+
